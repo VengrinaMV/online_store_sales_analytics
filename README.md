@@ -47,7 +47,7 @@ ARPPU ( средний доход с платящего пользователя
 
 ### 4.	Когортный анализ
  
-![ ](https://drive.google.com/file/d/1W5Lct1WhMF8AJdL5ea2UpPtED3uIyql8/view?usp=sharing)
+![ ](https://github.com/VengrinaMV/rebrain_project/blob/main/cohort.JPG)
 
 
 Когорта клиентов, первый заказ которых был  в апреле отличается наибольшим количеством клиентов и длительностью жизни когорты.
